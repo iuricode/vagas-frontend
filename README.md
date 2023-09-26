@@ -30,8 +30,7 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | 02   | Dinamio Tecnologia LTDA | Estágio | Presencial | [Link](https://encurtador.com.br/couzE) |
 | 03   | JSS DIGITAÇÕES          | Estágio | Presencial | [Link](https://encurtador.com.br/CPSXY) |
 | 04   | União Química           | Estágio | Presencial | [Link](https://bit.ly/estagio-efront-3) |
-| 05   | Geogin                  | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-1) |
-| 06   | Grupo Stone.Co          | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-5) |
+| 05   | Grupo Stone.Co          | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-5) |
 
 ## Contribuição ✨
 
