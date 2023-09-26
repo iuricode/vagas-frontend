@@ -8,7 +8,7 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 
 | Vaga | Empresa              | Tipo    | Formato    | Link                                    |
 | ---- | -------------------- | ------- | ---------- | --------------------------------------- |
-| 01   | InstaCarro           | Emprego | Presencial | [Link](https://encurtador.com.br/mpV24){:target="_blank"} |
+| 01   | InstaCarro           | Emprego | Presencial | <a href="https://encurtador.com.br/mpV24" target="_blank">Link</a> |
 | 02   | Escriba              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-1){:target="_blank"} |
 | 03   | Talentify            | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-2){:target="_blank"} |
 | 04   | WEBJUMP              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-3){:target="_blank"} |
@@ -19,7 +19,6 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | 09   | Spaceship Foundation | Emprego | Remoto     | [Link](https://encurtador.com.br/nAGT2){:target="_blank"} |
 | 10   | Opah IT              | Emprego | Remoto     | [Link](https://encurtador.com.br/nDJQZ){:target="_blank"} |
 | 11   | Koopere              | Emprego | Remoto     | [Link](https://encurtador.com.br/aguU0){:target="_blank"} |
-
 
 ## Vagas de estágio 🎉
 
