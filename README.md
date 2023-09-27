@@ -19,6 +19,9 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | 09   | Spaceship Foundation | Emprego | Remoto     | [Link](https://encurtador.com.br/nAGT2) |
 | 10   | Opah IT              | Emprego | Remoto     | [Link](https://encurtador.com.br/nDJQZ) |
 | 11   | Koopere              | Emprego | Remoto     | [Link](https://encurtador.com.br/aguU0) |
+| 12   | Visie                | Emprego | Remoto     | [Link](https://encurtador.com.br/biuzH) |
+| 13   | QuikDev              | Emprego | Remoto     | [Link](https://encurtador.com.br/efxW0) |
+| 14   | Beelieve.ag          | Emprego | Hibrido     | [Link](https://encurtador.com.br/drNVY) |
 
 ## Vagas de estágio 🎉
 
@@ -29,8 +32,6 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | 03   | JSS DIGITAÇÕES          | Estágio | Presencial | [Link](https://encurtador.com.br/CPSXY) |
 | 04   | União Química           | Estágio | Presencial | [Link](https://bit.ly/estagio-efront-3) |
 | 05   | Grupo Stone.Co          | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-5) |
-| 06   | JELCORP                 | Estágio | Remoto     | [Link](https://encurtador.com.br/DU127) |
-| 07   | Impeto                  | Estágio | Remoto     | [Link](https://encurtador.com.br/lozN9) |
 
 ## Contribuição ✨
 
