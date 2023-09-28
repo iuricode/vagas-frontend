@@ -22,6 +22,7 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | 12   | Visie                | Emprego | Remoto     | [Link](https://encurtador.com.br/biuzH) |
 | 13   | QuikDev              | Emprego | Remoto     | [Link](https://encurtador.com.br/efxW0) |
 | 14   | Beelieve.ag          | Emprego | Hibrido     | [Link](https://encurtador.com.br/drNVY) |
+| 15   | Speed IO             | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-15) |
 
 ## Vagas de estágio 🎉
 
@@ -32,6 +33,7 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | 03   | JSS DIGITAÇÕES          | Estágio | Presencial | [Link](https://encurtador.com.br/CPSXY) |
 | 04   | União Química           | Estágio | Presencial | [Link](https://bit.ly/estagio-efront-3) |
 | 05   | Grupo Stone.Co          | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-5) |
+| 06   | Engenharia              | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-6) |
 
 ## Contribuição ✨
 
