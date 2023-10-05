@@ -19,6 +19,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | 09   | QuikDev              | Emprego | Remoto     | [Link](https://encurtador.com.br/efxW0) |
 | 10   | Beelieve.ag          | Emprego | Hibrido     | [Link](https://encurtador.com.br/drNVY) |
 | 11   | Speed IO             | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-15) |
+| 12   | Fasters              | Emprego | Remoto     | [Link](https://encurtador.com.br/fvFTY) |
+| 13   | Braza              | Emprego | Remoto       | [Link](https://encurtador.com.br/frwB8) |
 
 ## Vagas de estágio 🎉
 
