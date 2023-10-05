@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de vagas frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 27/09/2023
+> Última atualização/revisão: 04/10/2023
 
 ## Vagas de emprego 🎉
 
@@ -10,19 +10,17 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | ---- | -------------------- | ------- | ---------- | --------------------------------------- |
 | 01   | InstaCarro           | Emprego | Presencial | [Link](https://encurtador.com.br/mpV24) |
 | 02   | Escriba              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-1) |
-| 03   | Talentify            | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-2) |
-| 04   | WEBJUMP              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-3) |
-| 05   | DBC Company          | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-4) |
-| 06   | V8.TECH              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-5) |
-| 07   | CEGH T.E             | Emprego | Remoto     | [Link](https://encurtador.com.br/lnpI6) |
-| 08   | Agência 2b Digital   | Emprego | Remoto     | [Link](https://encurtador.com.br/cuEFK) |
-| 09   | Spaceship Foundation | Emprego | Remoto     | [Link](https://encurtador.com.br/nAGT2) |
-| 10   | Opah IT              | Emprego | Remoto     | [Link](https://encurtador.com.br/nDJQZ) |
-| 11   | Koopere              | Emprego | Remoto     | [Link](https://encurtador.com.br/aguU0) |
-| 12   | Visie                | Emprego | Remoto     | [Link](https://encurtador.com.br/biuzH) |
-| 13   | QuikDev              | Emprego | Remoto     | [Link](https://encurtador.com.br/efxW0) |
-| 14   | Beelieve.ag          | Emprego | Hibrido    | [Link](https://encurtador.com.br/drNVY) |
-| 15   | Speed IO             | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-15) |
+| 03   | WEBJUMP              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-3) |
+| 04   | DBC Company          | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-4) |
+| 05   | V8.TECH              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-5) |
+| 06   | CEGH T.E             | Emprego | Remoto     | [Link](https://encurtador.com.br/lnpI6) |
+| 07   | Agência 2b Digital   | Emprego | Remoto     | [Link](https://encurtador.com.br/cuEFK) |
+| 08   | Spaceship Foundation | Emprego | Remoto     | [Link](https://encurtador.com.br/nAGT2) |
+| 09   | Koopere              | Emprego | Remoto     | [Link](https://encurtador.com.br/aguU0) |
+| 10   | Visie                | Emprego | Remoto     | [Link](https://encurtador.com.br/biuzH) |
+| 11   | QuikDev              | Emprego | Remoto     | [Link](https://encurtador.com.br/efxW0) |
+| 12   | Beelieve.ag          | Emprego | Hibrido    | [Link](https://encurtador.com.br/drNVY) |
+| 13   | Speed IO             | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-15) |
 
 ## Vagas de estágio 🎉
 
@@ -30,10 +28,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de v
 | ---- | ----------------------- | ------- | ---------- | --------------------------------------- |
 | 01   | Econverse               | Estágio | Híbrida    | [Link](https://bit.ly/estagio-efront-2) |
 | 02   | Dinamio Tecnologia LTDA | Estágio | Presencial | [Link](https://encurtador.com.br/couzE) |
-| 03   | JSS DIGITAÇÕES          | Estágio | Presencial | [Link](https://encurtador.com.br/CPSXY) |
-| 04   | União Química           | Estágio | Presencial | [Link](https://bit.ly/estagio-efront-3) |
-| 05   | Grupo Stone.Co          | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-5) |
-| 06   | Engenharia              | Estágio | Híbrido    | [Link](https://bit.ly/estagio-efront-6) |
+| 03   | Grupo Stone.Co          | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-5) |
+| 04   | Engenharia              | Estágio | Híbrido    | [Link](https://bit.ly/estagio-efront-6) |
 
 ## Contribuição ✨
 
