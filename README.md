@@ -29,6 +29,9 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | Vaga | Empresa    | Link                                    |
 | ---- | ---------- | --------------------------------------- |
 | 01   | Innolevels | [Link](https://encurtador.com.br/dDV08) |
+| 02   | AVANTI     | [Link](https://encurtador.com.br/ehnQZ) |
+| 03   | Arcanjo    | [Link](https://encurtador.com.br/bnpW1) |
+| 04   | Lince Tech | [Link](https://encurtador.com.br/FN026) |
 
 ## Contribuição ✨
 
