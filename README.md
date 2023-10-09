@@ -1,35 +1,34 @@
 # Vagas Frontend 💻
 
-Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de vagas frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
+Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 04/10/2023
+> Última atualização/revisão: 09/10/2023
 
 ## Vagas de emprego 🎉
 
-| Vaga | Empresa              | Tipo    | Formato    | Link                                    |
-| ---- | -------------------- | ------- | ---------- | --------------------------------------- |
-| 01   | InstaCarro           | Emprego | Presencial | [Link](https://encurtador.com.br/mpV24) |
-| 02   | Escriba              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-1) |
-| 03   | WEBJUMP              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-3) |
-| 04   | DBC Company          | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-4) |
-| 05   | V8.TECH              | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-5) |
-| 06   | CEGH T.E             | Emprego | Remoto     | [Link](https://encurtador.com.br/lnpI6) |
-| 07   | Agência 2b Digital   | Emprego | Remoto     | [Link](https://encurtador.com.br/cuEFK) |
-| 08   | Spaceship Foundation | Emprego | Remoto     | [Link](https://encurtador.com.br/nAGT2) |
-| 09   | Koopere              | Emprego | Remoto     | [Link](https://encurtador.com.br/aguU0) |
-| 10   | Visie                | Emprego | Remoto     | [Link](https://encurtador.com.br/biuzH) |
-| 11   | QuikDev              | Emprego | Remoto     | [Link](https://encurtador.com.br/efxW0) |
-| 12   | Beelieve.ag          | Emprego | Hibrido    | [Link](https://encurtador.com.br/drNVY) |
-| 13   | Speed IO             | Emprego | Remoto     | [Link](https://bit.ly/emprego-efront-15) |
+| Vaga | Empresa              | Link                                     |
+| ---- | -------------------- | ---------------------------------------- |
+| 01   | Escriba              | [Link](https://bit.ly/emprego-efront-1)  |
+| 02   | WEBJUMP              | [Link](https://bit.ly/emprego-efront-3)  |
+| 03   | DBC Company          | [Link](https://bit.ly/emprego-efront-4)  |
+| 04   | V8.TECH              | [Link](https://bit.ly/emprego-efront-5)  |
+| 05   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
+| 06   | Agência 2b Digital   | [Link](https://encurtador.com.br/cuEFK)  |
+| 07   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
+| 08   | Koopere              | [Link](https://encurtador.com.br/aguU0)  |
+| 09   | Visie                | [Link](https://encurtador.com.br/biuzH)  |
+| 10   | QuikDev              | [Link](https://encurtador.com.br/efxW0)  |
+| 11   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
+| 12   | IPG Health           | [Link](https://encurtador.com.br/gEJQ3)  |
+| 13   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
+| 14   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
+| 15   | Dealer               | [Link](https://bit.ly/emprego-efront-16) |
 
 ## Vagas de estágio 🎉
 
-| Vaga | Empresa                 | Tipo    | Formato    | Link                                    |
-| ---- | ----------------------- | ------- | ---------- | --------------------------------------- |
-| 01   | Econverse               | Estágio | Híbrida    | [Link](https://bit.ly/estagio-efront-2) |
-| 02   | Dinamio Tecnologia LTDA | Estágio | Presencial | [Link](https://encurtador.com.br/couzE) |
-| 03   | Grupo Stone.Co          | Estágio | Remoto     | [Link](https://bit.ly/estagio-efront-5) |
-| 04   | Engenharia              | Estágio | Híbrido    | [Link](https://bit.ly/estagio-efront-6) |
+| Vaga | Empresa    | Link                                    |
+| ---- | ---------- | --------------------------------------- |
+| 01   | Innolevels | [Link](https://encurtador.com.br/dDV08) |
 
 ## Contribuição ✨
 
