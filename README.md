@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 09/10/2023
+> Última atualização/revisão: 16/10/2023
 
 ## Vagas de emprego 🎉
 
@@ -17,12 +17,11 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 07   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
 | 08   | Koopere              | [Link](https://encurtador.com.br/aguU0)  |
 | 09   | Visie                | [Link](https://encurtador.com.br/biuzH)  |
-| 10   | QuikDev              | [Link](https://encurtador.com.br/efxW0)  |
-| 11   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
-| 12   | IPG Health           | [Link](https://encurtador.com.br/gEJQ3)  |
-| 13   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
-| 14   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
-| 15   | Dealer               | [Link](https://bit.ly/emprego-efront-16) |
+| 10   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
+| 11   | IPG Health           | [Link](https://encurtador.com.br/gEJQ3)  |
+| 12   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
+| 13   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
+| 14   | Dealer               | [Link](https://bit.ly/emprego-efront-16) |
 
 ## Vagas de estágio 🎉
 
