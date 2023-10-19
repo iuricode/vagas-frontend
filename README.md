@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 16/10/2023
+> Última atualização/revisão: 19/10/2023
 
 ## Vagas de emprego 🎉
 
@@ -31,6 +31,9 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 02   | AVANTI     | [Link](https://encurtador.com.br/ehnQZ) |
 | 03   | Arcanjo    | [Link](https://encurtador.com.br/bnpW1) |
 | 04   | Lince Tech | [Link](https://encurtador.com.br/FN026) |
+| 05   | Siena      | [Link](https://encurtador.com.br/egpxD) |
+| 06   | ESIG Group | [Link](https://encurtador.com.br/gxzY6) |
+| 07   | A&M        | [Link](https://encurtador.com.br/lBZ06) |
 
 ## Contribuição ✨
 
