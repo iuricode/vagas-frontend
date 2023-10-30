@@ -10,30 +10,26 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | ---- | -------------------- | ---------------------------------------- |
 | 01   | Escriba              | [Link](https://bit.ly/emprego-efront-1)  |
 | 02   | WEBJUMP              | [Link](https://bit.ly/emprego-efront-3)  |
-| 03   | DBC Company          | [Link](https://bit.ly/emprego-efront-4)  |
-| 04   | V8.TECH              | [Link](https://bit.ly/emprego-efront-5)  |
-| 05   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
-| 06   | Agência 2b Digital   | [Link](https://encurtador.com.br/cuEFK)  |
-| 07   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
-| 08   | Koopere              | [Link](https://encurtador.com.br/aguU0)  |
-| 09   | Visie                | [Link](https://encurtador.com.br/biuzH)  |
-| 10   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
-| 11   | IPG Health           | [Link](https://encurtador.com.br/gEJQ3)  |
-| 12   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
-| 13   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
-| 14   | Dealer               | [Link](https://bit.ly/emprego-efront-16) |
+| 03   | V8.TECH              | [Link](https://bit.ly/emprego-efront-5)  |
+| 04   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
+| 05   | Agência 2b Digital   | [Link](https://encurtador.com.br/cuEFK)  |
+| 06   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
+| 07   | Visie                | [Link](https://encurtador.com.br/biuzH)  |
+| 08   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
+| 09   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
+| 10   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
+| 11   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
+
 
 ## Vagas de estágio 🎉
 
 | Vaga | Empresa    | Link                                    |
 | ---- | ---------- | --------------------------------------- |
-| 01   | Innolevels | [Link](https://encurtador.com.br/dDV08) |
-| 02   | AVANTI     | [Link](https://encurtador.com.br/ehnQZ) |
-| 03   | Arcanjo    | [Link](https://encurtador.com.br/bnpW1) |
-| 04   | Lince Tech | [Link](https://encurtador.com.br/FN026) |
-| 05   | Siena      | [Link](https://encurtador.com.br/egpxD) |
-| 06   | ESIG Group | [Link](https://encurtador.com.br/gxzY6) |
-| 07   | A&M        | [Link](https://encurtador.com.br/lBZ06) |
+| 01   | AVANTI     | [Link](https://encurtador.com.br/ehnQZ) |
+| 02   | Arcanjo    | [Link](https://encurtador.com.br/bnpW1) |
+| 03   | Lince Tech | [Link](https://encurtador.com.br/FN026) |
+| 04   | ESIG Group | [Link](https://encurtador.com.br/gxzY6) |
+| 05   | A&M        | [Link](https://encurtador.com.br/lBZ06) |
 
 ## Contribuição ✨
 
