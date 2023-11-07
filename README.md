@@ -2,25 +2,19 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 31/10/2023
+> Última atualização/revisão: 07/11/2023
 
 ## Vagas de emprego 🎉
 
 | Vaga | Empresa              | Link                                     |
 | ---- | -------------------- | ---------------------------------------- |
 | 01   | Escriba              | [Link](https://bit.ly/emprego-efront-1)  |
-| 02   | WEBJUMP              | [Link](https://bit.ly/emprego-efront-3)  |
-| 03   | V8.TECH              | [Link](https://bit.ly/emprego-efront-5)  |
-| 04   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
-| 05   | Agência 2b Digital   | [Link](https://encurtador.com.br/cuEFK)  |
-| 06   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
-| 07   | Visie                | [Link](https://encurtador.com.br/biuzH)  |
-| 08   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
-| 09   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
-| 10   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
-| 11   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
-| 12   | MJVer                | [Link](https://encurtador.com.br/iwFT8)  |
-| 13   | Linx                 | [Link](https://encurtador.com.br/iqNS2)  |
+| 02   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
+| 03   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
+| 04   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
+| 05   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
+| 06   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
+| 07   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
 
 ## Vagas de estágio 🎉
 
@@ -30,9 +24,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 02   | Arcanjo     | [Link](https://encurtador.com.br/bnpW1) |
 | 03   | Lince Tech  | [Link](https://encurtador.com.br/FN026) |
 | 04   | ESIG Group  | [Link](https://encurtador.com.br/gxzY6) |
-| 05   | A&M         | [Link](https://encurtador.com.br/lBZ06) |
-| 06   | Wareline    | [Link](https://encurtador.com.br/kruxT) |
-| 07   | Wilson Sons | [Link](https://encurtador.com.br/cvyKP) |
+| 05   | Wareline    | [Link](https://encurtador.com.br/kruxT) |
+| 06   | Wilson Sons | [Link](https://encurtador.com.br/cvyKP) |
 
 ## Contribuição ✨
 
