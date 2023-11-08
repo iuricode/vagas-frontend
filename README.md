@@ -15,6 +15,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 05   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
 | 06   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
 | 07   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
+| 08   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
+| 09   | AIRed                | [Link](https://encurtador.com.br/ABKP1)  |
 
 ## Vagas de estágio 🎉
 
