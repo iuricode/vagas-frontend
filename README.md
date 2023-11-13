@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 07/11/2023
+> Última atualização/revisão: 13/11/2023
 
 ## Vagas de emprego 🎉
 
@@ -12,11 +12,9 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 02   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
 | 03   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
 | 04   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
-| 05   | Linx                 | [Link](https://encurtador.com.br/eGJQS)  |
-| 06   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
-| 07   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
-| 08   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
-| 09   | AIRed                | [Link](https://encurtador.com.br/ABKP1)  |
+| 05   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
+| 06   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
+| 07   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
 
 ## Vagas de estágio 🎉
 
@@ -24,10 +22,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | ---- | ----------- | --------------------------------------- |
 | 01   | AVANTI      | [Link](https://encurtador.com.br/ehnQZ) |
 | 02   | Arcanjo     | [Link](https://encurtador.com.br/bnpW1) |
-| 03   | Lince Tech  | [Link](https://encurtador.com.br/FN026) |
-| 04   | ESIG Group  | [Link](https://encurtador.com.br/gxzY6) |
-| 05   | Wareline    | [Link](https://encurtador.com.br/kruxT) |
-| 06   | Wilson Sons | [Link](https://encurtador.com.br/cvyKP) |
+| 03   | Wareline    | [Link](https://encurtador.com.br/kruxT) |
+| 04   | Wilson Sons | [Link](https://encurtador.com.br/cvyKP) |
 
 ## Contribuição ✨
 
