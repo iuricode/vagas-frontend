@@ -2,28 +2,30 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 13/11/2023
+> Última atualização/revisão: 04/12/2023
 
 ## Vagas de emprego 🎉
 
 | Vaga | Empresa              | Link                                     |
 | ---- | -------------------- | ---------------------------------------- |
-| 01   | Escriba              | [Link](https://bit.ly/emprego-efront-1)  |
-| 02   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
-| 03   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
-| 04   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
-| 05   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
-| 06   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
-| 07   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
+| 01   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
+| 02   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
+| 03   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
+| 04   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
+| 05   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
+| 06   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
+| 07   | CODE GROUP           | [Link](https://encurtador.com.br/dhopJ)  |
+| 08   | WK JobHub            | [Link](https://encurtador.com.br/bfjw6)  |
+| 09   | Fretebras            | [Link](https://encurtador.com.br/aqADT)  |
+| 10   | TRIZY                | [Link](https://encurtador.com.br/gJOX7)  |
+| 11   | TrueChange           | [Link](https://encurtador.com.br/yNOP6)  |
 
 ## Vagas de estágio 🎉
 
 | Vaga | Empresa     | Link                                    |
 | ---- | ----------- | --------------------------------------- |
-| 01   | AVANTI      | [Link](https://encurtador.com.br/ehnQZ) |
-| 02   | Arcanjo     | [Link](https://encurtador.com.br/bnpW1) |
-| 03   | Wareline    | [Link](https://encurtador.com.br/kruxT) |
-| 04   | Wilson Sons | [Link](https://encurtador.com.br/cvyKP) |
+| 01   | Arcanjo     | [Link](https://encurtador.com.br/bnpW1) |
+
 
 ## Contribuição ✨
 
