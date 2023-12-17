@@ -18,13 +18,13 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 08   | WK JobHub            | [Link](https://encurtador.com.br/bfjw6)  |
 | 09   | Fretebras            | [Link](https://encurtador.com.br/aqADT)  |
 | 10   | TRIZY                | [Link](https://encurtador.com.br/gJOX7)  |
-| 11   | TrueChange           | [Link](https://encurtador.com.br/yNOP6)  |
+| 11   | Ploomes              | [Link](https://encurtador.com.br/noKO8)  |
+| 12   | Coderockr            | [Link](https://encurtador.com.br/bls89)  |
 
 ## Vagas de estágio 🎉
 
 | Vaga | Empresa     | Link                                    |
 | ---- | ----------- | --------------------------------------- |
-| 01   | Arcanjo     | [Link](https://encurtador.com.br/bnpW1) |
 
 
 ## Contribuição ✨
