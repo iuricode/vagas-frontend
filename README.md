@@ -10,16 +10,15 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | ---- | -------------------- | ---------------------------------------- |
 | 01   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
 | 02   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
-| 03   | Speed IO             | [Link](https://bit.ly/emprego-efront-15) |
-| 04   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
-| 05   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
-| 06   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
-| 07   | CODE GROUP           | [Link](https://encurtador.com.br/dhopJ)  |
-| 08   | WK JobHub            | [Link](https://encurtador.com.br/bfjw6)  |
-| 09   | Fretebras            | [Link](https://encurtador.com.br/aqADT)  |
-| 10   | TRIZY                | [Link](https://encurtador.com.br/gJOX7)  |
-| 11   | Ploomes              | [Link](https://encurtador.com.br/noKO8)  |
-| 12   | Coderockr            | [Link](https://encurtador.com.br/bls89)  |
+| 03   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
+| 04   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
+| 05   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
+| 06   | CODE GROUP           | [Link](https://encurtador.com.br/dhopJ)  |
+| 07   | WK JobHub            | [Link](https://encurtador.com.br/bfjw6)  |
+| 08   | Fretebras            | [Link](https://encurtador.com.br/aqADT)  |
+| 09   | TRIZY                | [Link](https://encurtador.com.br/gJOX7)  |
+| 10   | Ploomes              | [Link](https://encurtador.com.br/noKO8)  |
+| 11   | Coderockr            | [Link](https://encurtador.com.br/bls89)  |
 
 ## Vagas de estágio 🎉
 
