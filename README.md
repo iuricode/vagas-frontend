@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 17/12/2023
+> Última atualização/revisão: 18/12/2023
 
 ## Vagas de emprego 🎉
 
@@ -24,6 +24,9 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 
 | Vaga | Empresa     | Link                                    |
 | ---- | ----------- | --------------------------------------- |
+| 01   | Netvagas    | [Link](https://encurtador.com.br/imrIN) |
+| 02   | Viasoft     | [Link](https://encurtador.com.br/apw78) |
+| 03   | Netvagas    | [Link](https://encurtador.com.br/fyDRX) |
 
 
 ## Contribuição ✨
