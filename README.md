@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 18/12/2023
+> Última atualização/revisão: 02/01/2024
 
 ## Vagas de emprego 🎉
 
@@ -14,11 +14,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 04   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
 | 05   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
 | 06   | CODE GROUP           | [Link](https://encurtador.com.br/dhopJ)  |
-| 07   | WK JobHub            | [Link](https://encurtador.com.br/bfjw6)  |
-| 08   | Fretebras            | [Link](https://encurtador.com.br/aqADT)  |
-| 09   | TRIZY                | [Link](https://encurtador.com.br/gJOX7)  |
-| 10   | Ploomes              | [Link](https://encurtador.com.br/noKO8)  |
-| 11   | Coderockr            | [Link](https://encurtador.com.br/bls89)  |
+| 07   | Ploomes              | [Link](https://encurtador.com.br/noKO8)  |
+| 08   | Coderockr            | [Link](https://encurtador.com.br/bls89)  |
 
 ## Vagas de estágio 🎉
 
