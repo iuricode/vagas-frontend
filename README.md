@@ -2,33 +2,24 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 02/01/2024
+> Última atualização/revisão: 08/01/2024
 
-## Vagas de emprego 🎉
+## Vagas 🎉
 
-| Vaga | Empresa              | Link                                     |
-| ---- | -------------------- | ---------------------------------------- |
-| 01   | CEGH T.E             | [Link](https://encurtador.com.br/lnpI6)  |
-| 02   | Spaceship Foundation | [Link](https://encurtador.com.br/nAGT2)  |
-| 03   | Chumi-IT             | [Link](https://encurtador.com.br/fhOPS)  |
-| 04   | Innolevels           | [Link](https://encurtador.com.br/dDV08)  |
-| 05   | KONECTA              | [Link](https://encurtador.com.br/fmnLQ)  |
-| 06   | CODE GROUP           | [Link](https://encurtador.com.br/dhopJ)  |
-| 07   | Ploomes              | [Link](https://encurtador.com.br/noKO8)  |
-| 08   | Coderockr            | [Link](https://encurtador.com.br/bls89)  |
-
-## Vagas de estágio 🎉
-
-| Vaga | Empresa     | Link                                    |
-| ---- | ----------- | --------------------------------------- |
-| 01   | Netvagas    | [Link](https://encurtador.com.br/imrIN) |
-| 02   | Viasoft     | [Link](https://encurtador.com.br/apw78) |
-| 03   | Netvagas    | [Link](https://encurtador.com.br/fyDRX) |
-
+| Número | Empresa            | Link                          |
+| ------ | ------------------ | ----------------------------- |
+| 01     | BHS                | [Link](https://shre.ink/rC22) |
+| 02     | LOCALIZA           | [Link](https://shre.ink/rC2c) |
+| 03     | Mundiale           | [Link](https://shre.ink/rC2l) |
+| 04     | Coderockr          | [Link](https://shre.ink/rC2n) |
+| 05     | Ploomes            | [Link](https://shre.ink/rC2m) |
+| 06     | DBC Company        | [Link](https://shre.ink/rCQY) |
+| 07     | Green Bay Soluções | [Link](https://shre.ink/rCQV) |
+| 08     | CODE GROUP         | [Link](https://shre.ink/rCQR) |
 
 ## Contribuição ✨
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/vagas-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/desafios-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/vagas-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/vagas-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
 
 ## Aprenda desenvolvimento frontend ❤️
 
