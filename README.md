@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 08/01/2024
+> Última atualização/revisão: 09/01/2024
 
 ## Vagas 🎉
 
@@ -17,6 +17,9 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 07     | Green Bay Soluções | [Link](https://shre.ink/rCQV) |
 | 08     | CODE GROUP         | [Link](https://shre.ink/rCQR) |
 | 09     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
+| 10     | NEOOH              | [Link](https://shre.ink/rCYl) |
+| 11     | Melhor Envio       | [Link](https://shre.ink/rCY9) |
+| 12     | Hyperativa         | [Link](https://shre.ink/rCP4) |
 
 ## Contribuição ✨
 
