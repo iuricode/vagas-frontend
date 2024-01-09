@@ -16,6 +16,7 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 06     | DBC Company        | [Link](https://shre.ink/rCQY) |
 | 07     | Green Bay Soluções | [Link](https://shre.ink/rCQV) |
 | 08     | CODE GROUP         | [Link](https://shre.ink/rCQR) |
+| 09     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
 
 ## Contribuição ✨
 
