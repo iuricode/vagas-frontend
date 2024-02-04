@@ -2,24 +2,24 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 09/01/2024
+> Última atualização/revisão: 03/02/2024
 
 ## Vagas 🎉
 
 | Número | Empresa            | Link                          |
 | ------ | ------------------ | ----------------------------- |
 | 01     | BHS                | [Link](https://shre.ink/rC22) |
-| 02     | LOCALIZA           | [Link](https://shre.ink/rC2c) |
-| 03     | Mundiale           | [Link](https://shre.ink/rC2l) |
-| 04     | Coderockr          | [Link](https://shre.ink/rC2n) |
-| 05     | Ploomes            | [Link](https://shre.ink/rC2m) |
-| 06     | DBC Company        | [Link](https://shre.ink/rCQY) |
-| 07     | Green Bay Soluções | [Link](https://shre.ink/rCQV) |
-| 08     | CODE GROUP         | [Link](https://shre.ink/rCQR) |
-| 09     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
-| 10     | NEOOH              | [Link](https://shre.ink/rCYl) |
-| 11     | Melhor Envio       | [Link](https://shre.ink/rCY9) |
-| 12     | Hyperativa         | [Link](https://shre.ink/rCP4) |
+| 02     | Mundiale           | [Link](https://shre.ink/rC2l) |
+| 03     | Coderockr          | [Link](https://shre.ink/rC2n) |
+| 04     | Ploomes            | [Link](https://shre.ink/rC2m) |
+| 05     | DBC Company        | [Link](https://shre.ink/rCQY) |
+| 06     | CODE GROUP         | [Link](https://shre.ink/rCQR) |
+| 07     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
+| 08     | Hyperativa         | [Link](https://shre.ink/rCP4) |
+| 09     | Casar.com          | [Link](https://shre.ink/rMrn) |
+| 10     | WayCarbon          | [Link](https://shre.ink/rMr1) |
+| 11     | Lyncas             | [Link](https://shre.ink/rM84) |
+| 12     | Frete Rápido       | [Link](https://shre.ink/rM8w) |
 
 ## Contribuição ✨
 
