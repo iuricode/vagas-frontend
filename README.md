@@ -2,24 +2,19 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 03/02/2024
+> Última atualização/revisão: 19/02/2024
 
 ## Vagas 🎉
 
 | Número | Empresa            | Link                          |
 | ------ | ------------------ | ----------------------------- |
-| 01     | BHS                | [Link](https://shre.ink/rC22) |
-| 02     | Mundiale           | [Link](https://shre.ink/rC2l) |
-| 03     | Coderockr          | [Link](https://shre.ink/rC2n) |
-| 04     | Ploomes            | [Link](https://shre.ink/rC2m) |
-| 05     | DBC Company        | [Link](https://shre.ink/rCQY) |
-| 06     | CODE GROUP         | [Link](https://shre.ink/rCQR) |
-| 07     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
-| 08     | Hyperativa         | [Link](https://shre.ink/rCP4) |
-| 09     | Casar.com          | [Link](https://shre.ink/rMrn) |
-| 10     | WayCarbon          | [Link](https://shre.ink/rMr1) |
-| 11     | Lyncas             | [Link](https://shre.ink/rM84) |
-| 12     | Frete Rápido       | [Link](https://shre.ink/rM8w) |
+| 01     | Mundiale           | [Link](https://shre.ink/rC2l) |
+| 02     | Coderockr          | [Link](https://shre.ink/rC2n) |
+| 03     | Ploomes            | [Link](https://shre.ink/rC2m) |
+| 04     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
+| 05     | Hyperativa         | [Link](https://shre.ink/rCP4) |
+| 06     | Casar.com          | [Link](https://shre.ink/rMrn) |
+| 07     | WayCarbon          | [Link](https://shre.ink/rMr1) |
 
 ## Contribuição ✨
 
