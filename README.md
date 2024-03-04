@@ -2,19 +2,21 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 19/02/2024
+> Última atualização/revisão: 04/03/2024
 
 ## Vagas 🎉
 
 | Número | Empresa            | Link                          |
 | ------ | ------------------ | ----------------------------- |
-| 01     | Mundiale           | [Link](https://shre.ink/rC2l) |
-| 02     | Coderockr          | [Link](https://shre.ink/rC2n) |
-| 03     | Ploomes            | [Link](https://shre.ink/rC2m) |
-| 04     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
-| 05     | Hyperativa         | [Link](https://shre.ink/rCP4) |
-| 06     | Casar.com          | [Link](https://shre.ink/rMrn) |
-| 07     | WayCarbon          | [Link](https://shre.ink/rMr1) |
+| 01     | Coderockr          | [Link](https://shre.ink/rC2n) |
+| 02     | Ploomes            | [Link](https://shre.ink/rC2m) |
+| 03     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
+| 04     | BairesDev          | [Link](https://shre.ink/rcwy) |
+| 05     | Central IT         | [Link](https://shre.ink/rcO4) |
+| 06     | Contato Seguro     | [Link](https://shre.ink/rcwB) |
+| 07     | Folks RH           | [Link](https://shre.ink/rcwI) |
+| 08     | Beta Online        | [Link](https://shre.ink/rcwg) |
+| 09     | Netvagas           | [Link](https://shre.ink/rcwe) |
 
 ## Contribuição ✨
 
