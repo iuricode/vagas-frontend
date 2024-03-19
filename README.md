@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 04/03/2024
+> Última atualização/revisão: 19/03/2024
 
 ## Vagas 🎉
 
@@ -12,11 +12,7 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 02     | Ploomes            | [Link](https://shre.ink/rC2m) |
 | 03     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
 | 04     | BairesDev          | [Link](https://shre.ink/rcwy) |
-| 05     | Central IT         | [Link](https://shre.ink/rcO4) |
-| 06     | Contato Seguro     | [Link](https://shre.ink/rcwB) |
-| 07     | Folks RH           | [Link](https://shre.ink/rcwI) |
-| 08     | Beta Online        | [Link](https://shre.ink/rcwg) |
-| 09     | Netvagas           | [Link](https://shre.ink/rcwe) |
+| 05     | Beta Online        | [Link](https://shre.ink/rcwg) |
 
 ## Contribuição ✨
 
