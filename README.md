@@ -13,6 +13,11 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 03     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
 | 04     | BairesDev          | [Link](https://shre.ink/rcwy) |
 | 05     | Beta Online        | [Link](https://shre.ink/rcwg) |
+| 06     | Plastika TWY       | [Link](https://shre.ink/8JAF) |
+| 07     | Núcleo             | [Link](https://shre.ink/8JAX) |
+| 08     | Freelaw            | [Link](https://shre.ink/8JAC) |
+| 09     | Geobyte            | [Link](https://shre.ink/8JAK) |
+| 10     | BairesDev          | [Link](https://shre.ink/8JAh) |
 
 ## Contribuição ✨
 
