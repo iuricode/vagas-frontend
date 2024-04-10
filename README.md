@@ -9,15 +9,13 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | Número | Empresa            | Link                          |
 | ------ | ------------------ | ----------------------------- |
 | 01     | Coderockr          | [Link](https://shre.ink/rC2n) |
-| 02     | Ploomes            | [Link](https://shre.ink/rC2m) |
-| 03     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
-| 04     | BairesDev          | [Link](https://shre.ink/rcwy) |
-| 05     | Beta Online        | [Link](https://shre.ink/rcwg) |
-| 06     | Plastika TWY       | [Link](https://shre.ink/8JAF) |
-| 07     | Núcleo             | [Link](https://shre.ink/8JAX) |
-| 08     | Freelaw            | [Link](https://shre.ink/8JAC) |
-| 09     | Geobyte            | [Link](https://shre.ink/8JAK) |
-| 10     | BairesDev          | [Link](https://shre.ink/8JAh) |
+| 02     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
+| 03     | BairesDev          | [Link](https://shre.ink/rcwy) |
+| 04     | Plastika TWY       | [Link](https://shre.ink/8JAF) |
+| 05     | Núcleo             | [Link](https://shre.ink/8JAX) |
+| 06     | Freelaw            | [Link](https://shre.ink/8JAC) |
+| 07     | Geobyte            | [Link](https://shre.ink/8JAK) |
+| 08     | BairesDev          | [Link](https://shre.ink/8JAh) |
 
 ## Contribuição ✨
 
