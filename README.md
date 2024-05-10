@@ -2,20 +2,20 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 21/03/2024
+> Última atualização/revisão: 10/05/2024
 
 ## Vagas 🎉
 
 | Número | Empresa            | Link                          |
 | ------ | ------------------ | ----------------------------- |
-| 01     | Coderockr          | [Link](https://shre.ink/rC2n) |
-| 02     | Pro Educacional    | [Link](https://shre.ink/rCFo) |
-| 03     | BairesDev          | [Link](https://shre.ink/rcwy) |
-| 04     | Plastika TWY       | [Link](https://shre.ink/8JAF) |
-| 05     | Núcleo             | [Link](https://shre.ink/8JAX) |
-| 06     | Freelaw            | [Link](https://shre.ink/8JAC) |
-| 07     | Geobyte            | [Link](https://shre.ink/8JAK) |
-| 08     | BairesDev          | [Link](https://shre.ink/8JAh) |
+| 01     | Opah IT            | [Link](https://shre.ink/8p1B) |
+| 02     | Agile inc          | [Link](https://shre.ink/8pUc) |
+| 03     | Foursys            | [Link](https://shre.ink/8pUa) |
+| 04     | Omie               | [Link](https://shre.ink/8pUH) |
+| 05     | Fintools           | [Link](https://shre.ink/8pUn) |
+| 06     | BIX Tecnologia     | [Link](https://shre.ink/8pnP) |
+| 07     | MK Solutions       | [Link](https://shre.ink/8pn6) |
+| 08     | MODALGR            | [Link](https://shre.ink/8pn0) |
 
 ## Contribuição ✨
 
