@@ -2,19 +2,15 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 19/05/2024
+> Última atualização/revisão: 26/05/2024
 
 ## Vagas 🎉
 
-| Número | Empresa            | Link                          |
-| ------ | ------------------ | ----------------------------- |
-| 01     | Opah IT            | [Link](https://shre.ink/8p1B) |
-| 02     | Foursys            | [Link](https://shre.ink/8pUa) |
-| 03     | Omie               | [Link](https://shre.ink/8pUH) |
-| 04     | Fintools           | [Link](https://shre.ink/8pUn) |
-| 05     | BIX Tecnologia     | [Link](https://shre.ink/8pnP) |
-| 06     | MK Solutions       | [Link](https://shre.ink/8pn6) |
-| 07     | MODALGR            | [Link](https://shre.ink/8pn0) |
+| Número | Empresa            | Link                                                  |
+| ------ | ------------------ | ----------------------------------------------------- |
+| 01     | Caju               | [Link](https://www.linkedin.com/jobs/view/3926425905) |
+| 02     | Smart NX           | [Link](https://www.linkedin.com/jobs/view/3927156341) |
+| 03     | BoaVaga            | [Link](https://www.linkedin.com/jobs/view/3925178700) |
 
 ## Contribuição ✨
 
