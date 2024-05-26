@@ -11,6 +11,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 01     | Caju               | [Link](https://www.linkedin.com/jobs/view/3926425905) |
 | 02     | Smart NX           | [Link](https://www.linkedin.com/jobs/view/3927156341) |
 | 03     | BoaVaga            | [Link](https://www.linkedin.com/jobs/view/3925178700) |
+| 04     | Foursys            | [Link](https://www.linkedin.com/jobs/view/3918465848) |
+| 05     | TOTVS              | [Link](https://www.linkedin.com/jobs/view/3924231064) |
 
 ## Contribuição ✨
 
