@@ -5,7 +5,7 @@ Este é um projeto totalmente livre que aceita contribuições via pull requests
 ## Passos
 
 1. Crie um fork deste repositório.
-2. Os links devem ser encurtados pelo site [URL Gratis](https://url.gratis/).
+2. As vagas devem ser no LinkedIn.
 3. Envie seus commits em português.
 4. Insira um pequeno resumo sobre o que foi adicionado.
 5. Solicite um pull request.
