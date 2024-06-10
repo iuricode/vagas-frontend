@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 02/06/2024
+> Última atualização/revisão: 09/06/2024
 
 ## Vagas 🎉
 
@@ -11,9 +11,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | 01     | Caju               | [Link](https://www.linkedin.com/jobs/view/3926425905) |
 | 02     | Smart NX           | [Link](https://www.linkedin.com/jobs/view/3927156341) |
 | 03     | BoaVaga            | [Link](https://www.linkedin.com/jobs/view/3925178700) |
-| 04     | Foursys            | [Link](https://www.linkedin.com/jobs/view/3918465848) |
-| 05     | TOTVS              | [Link](https://www.linkedin.com/jobs/view/3924231064) |
-| 06     | Desenvolve cidade  | [Link](https://www.linkedin.com/jobs/view/3930256352) |
+| 04     | TOTVS              | [Link](https://www.linkedin.com/jobs/view/3924231064) |
+| 05     | Desenvolve cidade  | [Link](https://www.linkedin.com/jobs/view/3930256352) |
 
 ## Contribuição ✨
 
