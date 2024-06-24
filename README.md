@@ -2,25 +2,15 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 10/06/2024
+> Última atualização/revisão: 24/06/2024
 
 ## Vagas 🎉
 
 | Número | Empresa            | Link                                                  |
 | ------ | ------------------ | ----------------------------------------------------- |
-| 01     | Caju               | [Link](https://www.linkedin.com/jobs/view/3926425905) |
-| 02     | Smart NX           | [Link](https://www.linkedin.com/jobs/view/3927156341) |
-| 03     | BoaVaga            | [Link](https://www.linkedin.com/jobs/view/3925178700) |
-| 04     | TOTVS              | [Link](https://www.linkedin.com/jobs/view/3924231064) |
-| 05     | Desenvolve cidade  | [Link](https://www.linkedin.com/jobs/view/3930256352) |
-| 06     | BairesDev          | [Link](https://www.linkedin.com/jobs/view/3941900298) |
-| 07     | Anfi LabMarketing  | [Link](https://www.linkedin.com/jobs/view/3943884972) |
-| 08     | PTC Group          | [Link](https://www.linkedin.com/jobs/view/3943248938) |
-| 09     | Radix Brasil       | [Link](https://www.linkedin.com/jobs/view/3939833658) |
-| 10     | Onze               | [Link](https://www.linkedin.com/jobs/view/3943727382) |
-| 11     | 123Projetei        | [Link](https://www.linkedin.com/jobs/view/3940877014) |
-| 12     | Stefanini Brasil   | [Link](https://www.linkedin.com/jobs/view/3941593778) |
-| 13     | AVANTI             | [Link](https://www.linkedin.com/jobs/view/3942150402) |
+| 01     | PTC Group          | [Link](https://www.linkedin.com/jobs/view/3943248938) |
+| 02     | Onze               | [Link](https://www.linkedin.com/jobs/view/3943727382) |
+| 03     | Stefanini Brasil   | [Link](https://www.linkedin.com/jobs/view/3941593778) |
 
 ## Contribuição ✨
 
