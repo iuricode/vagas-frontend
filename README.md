@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 24/06/2024
+> Última atualização/revisão: 03/07/2024
 
 ## Vagas 🎉
 
@@ -10,7 +10,6 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | ------ | ------------------ | ----------------------------------------------------- |
 | 01     | PTC Group          | [Link](https://www.linkedin.com/jobs/view/3943248938) |
 | 02     | Onze               | [Link](https://www.linkedin.com/jobs/view/3943727382) |
-| 03     | Stefanini Brasil   | [Link](https://www.linkedin.com/jobs/view/3941593778) |
 
 ## Contribuição ✨
 
