@@ -10,6 +10,8 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 | ------ | ------------------ | ----------------------------------------------------- |
 | 01     | PTC Group          | [Link](https://www.linkedin.com/jobs/view/3943248938) |
 | 02     | Onze               | [Link](https://www.linkedin.com/jobs/view/3943727382) |
+| 03     | VirtuTech          | [Link](https://www.linkedin.com/jobs/view/3962668089) |
+| 04     | Arco Educação      | [Link](https://www.linkedin.com/jobs/view/3931786869) |
 
 ## Contribuição ✨
 
