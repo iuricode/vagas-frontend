@@ -2,22 +2,15 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 29/07/2024
+> Última atualização/revisão: 05/09/2024
 
 ## Vagas 🎉
 
 | Número | Empresa            | Link                                                  |
 | ------ | ------------------ | ----------------------------------------------------- |
-| 01     | Arco Educação      | [Link](https://www.linkedin.com/jobs/view/3931786869) |
-| 02     | MKOM               | [Link](https://www.linkedin.com/jobs/view/3984385512) |
-| 03     | Arke               | [Link](https://www.linkedin.com/jobs/view/3973646863) |
-| 04     | Linx               | [Link](https://www.linkedin.com/jobs/view/3984237328) |
-| 05     | Newfold Digital    | [Link](https://www.linkedin.com/jobs/view/3984143584) |
-| 06     | ANDRITZ            | [Link](https://www.linkedin.com/jobs/view/3981358703) |
-| 07     | Capitani Group     | [Link](https://www.linkedin.com/jobs/view/3984945726) |
-| 08     | CI&T               | [Link](https://www.linkedin.com/jobs/view/3985059652) |
-| 09     | Growyx             | [Link](https://www.linkedin.com/jobs/view/3987020282) |
-| 10     | Culture Designer   | [Link](https://www.linkedin.com/jobs/view/3985330545) |
+| 01     | Jedis              | [Link](https://www.linkedin.com/jobs/view/3957297576) |
+| 02     | rhumanizei         | [Link](https://www.linkedin.com/jobs/view/3956957897) |
+| 03     | t-upsolucoes       | [Link](https://www.linkedin.com/jobs/view/3956960117) |
 
 ## Contribuição ✨
 
