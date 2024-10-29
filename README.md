@@ -2,15 +2,17 @@
 
 Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de **vagas remotas** em frontend. Seu propósito é ajudar as pessoas a entrarem no mercado de desenvolvimento frontend, seja iniciante ou não.
 
-> Última atualização/revisão: 05/09/2024
+> Última atualização/revisão: 29/10/2024
 
 ## Vagas 🎉
 
-| Número | Empresa            | Link                                                  |
-| ------ | ------------------ | ----------------------------------------------------- |
-| 01     | Jedis              | [Link](https://www.linkedin.com/jobs/view/3957297576) |
-| 02     | rhumanizei         | [Link](https://www.linkedin.com/jobs/view/3956957897) |
-| 03     | t-upsolucoes       | [Link](https://www.linkedin.com/jobs/view/3956960117) |
+| Número | Empresa               | Link                                                  |
+| ------ | --------------------- | ----------------------------------------------------- |
+| 01     | Great Place To Work   | [Link](https://www.linkedin.com/jobs/view/4001544854/) |
+| 02     | Reuters News Agency   | [Link](https://www.linkedin.com/jobs/view/4032375233/) |
+| 03     | InstaCarro            | [Link](https://www.linkedin.com/jobs/view/4058381793/) |
+| 04     | BrasilCT              | [Link](https://www.linkedin.com/jobs/view/4062242681/) |
+| 05     | NAVA                  | [Link](https://www.linkedin.com/jobs/view/4044243462/) |
 
 ## Contribuição ✨
 
