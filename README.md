@@ -17,3 +17,7 @@ Bem-vindo(a) ao **Vagas Frontend**! Este projeto open source é um conjunto de *
 ## Contribuição ✨
 
 Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/vagas-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/vagas-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
+
+## Aprenda programação ❤️
+
+Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu curso "**[FrontCode](https://iuricode.com/frontcode)**" se estiver interessado em aprender ou melhorar suas habilidades na programação. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada na programação.
